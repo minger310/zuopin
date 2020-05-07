@@ -1,0 +1,46 @@
+.myhead{
+	display: flex;
+	align-items: center;
+	padding: 15rpx;
+	background-color: white;
+}
+.logo{
+	flex: 7;
+}
+.logo image{
+	width: 140rpx;
+	height: 60rpx;
+}
+.search{
+	flex: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.search image{
+	width: 50rpx;
+	height: 50rpx;
+}
+.user{
+	flex: 2;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.user image{
+	width: 50rpx;
+	height: 50rpx;
+}
+.download{
+	flex: 3;
+	font-size: 30rpx;
+	font-family: "黑体";
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color:rgb(252, 142, 160);
+	color: #ffffff;
+	border-radius: 10rpx;
+	padding: 20rpx;
+}

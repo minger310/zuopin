@@ -1,0 +1,18 @@
+<view class="myhead">
+	<!-- logo -->
+	<navigator class="logo" open-type="redirect" url="../../pages/index/index">
+		<image src="../../Icons/bilibili_logo.png"></image>
+	</navigator>
+	<!-- search -->
+	<view class="search">
+		<image src="../../Icons/search.png"></image>
+	</view>
+	<!-- user -->
+	<view class="user">
+		<image src="../../Icons/user.png"></image>
+	</view>
+	<!-- download -->
+	<view class="download">
+		下载 APP
+	</view>
+</view>
