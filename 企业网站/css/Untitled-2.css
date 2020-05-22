@@ -1,0 +1,296 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0 auto;
+	padding:0px；
+}
+#nay{
+	width: 1238px;
+	height: 133px;
+	margin: 0 auto;
+	font-family:"microsoft yahei";
+}
+#nay li{
+	list-style: none;
+	float:left;
+	width: 107px;
+	height: 100%;
+	line-height: 133px;
+	text-align: center;
+}
+
+#nay #LOGO{
+	width: 363px;
+	height:100px;
+	font-size: 64px;
+	
+}
+
+	
+
+#nay .xuanzhong{
+	background-color:#2a2c2f;
+	color: #ffffff;
+}
+#banner{
+	width:100%;
+	height: 508px;
+	margin: 0 auto;
+}
+#banner img{
+	margin: 0 auto;
+}
+#center{
+	text-align: center;
+	padding-top: 30px;
+}
+#aboutus{
+	width: 1162px;
+	height: 400px;
+	margin: 0 auto;
+	padding-top: 40px;
+	position: relative;
+}
+#aboutus1{
+	width: 1162px;
+	height: 400px;
+	margin: 0 auto;
+	padding-top: 40px;
+	position: relative;
+}
+#aboutus2{
+	width: 1162px;
+	height: 400px;
+	margin: 0 auto;
+	padding-top: 40px;
+	position: relative;
+}
+#aboutus3{
+	width: 1162px;
+	height: 400px;
+	margin: 0 auto;
+	padding-top: 40px;
+	position: relative;
+}
+#box{
+	width: 631px;
+	text-align: center;
+	font-size: 32px;
+	font-family: "微软雅黑";
+	font-weight: bold;
+	margin: 0 auto;
+	background-image:url( ../images/henxian1.png);
+	background-repeat: no-repeat;
+	background-position: 0 50%;
+}
+#aboutus img{
+	width: 362;
+	height: 343px;
+	position: absolute;
+	bottom: 0;
+}
+#GSjieshao{
+	width: 182px;
+	height: 80px;
+	color: #ffffff;
+	font-size: 30px;
+	font-family: "microsoft yahei";
+	font-weight: bold;
+	background-color: #2a2c2f;
+	text-align: center;
+	line-height: 80px;
+	position: absolute;
+	left: 362px;
+	bottom:228px;
+	z-index: 99;
+}
+#wenzi{
+	width: 665px;
+	height: 195px;
+	background-color: #f5f5f5;
+	position: absolute;
+	left: 362px;
+	bottom: 0;
+	z-index: 1;
+	padding-top: 78px;
+	padding-left: 41px;
+	padding-right: 94px;
+}
+#wenzi p{
+	font-size: 18px;
+	line-height: 36px;
+	color: #333333;
+}
+#more{
+	width: 78px;
+	height: 33px;
+	text-align: center;
+	line-height: 33px;
+	color: #ffffff;
+	background-color: #e6c50e;
+	position: absolute;
+	right: 12px;
+	bottom: 28px;
+	z-index: 2;
+	font-family:"Arial" ;
+	font-weight: bold;
+	font-size: 16px;
+}
+vshow{
+	width: 100%;
+	height: 529px;
+	margin: 74px auto 0;
+	background-image: url(images/banner2.jpg);
+	padding-top: 37px;
+}
+#chanpinphoto{
+	width: 1136px;
+	height: 333px;
+	margin: 73px auto 0;
+}
+#chanpinphoto img{
+	float: left;
+	margin-right: 20px;
+}
+#djcx{
+	width: 150px;
+	height: 50px;
+	margin: 21px auto 0;
+	color: #ffffff;
+	font-size: 20px;
+	font-family: "microsoft yahei";
+	border: 3px solid #ffffff;
+	text-align: center;
+	line-height: 50px;
+	
+}
+#news{
+	width: 100%;
+	height: 568px;
+	margin: 0 auto;
+	
+}
+#newsbox{
+	width: 1163px;
+	margin: 0 auto;
+}
+#littlebox{
+	width: 572px;
+	height: 242px;
+	float: left;
+	margin-top: 30px;
+}
+#littlebox .left{
+	float: left;
+	width: 531px;
+	height: 242px;
+	background-color: #f5f5f5;
+}
+#littlebox #left img{
+	margin: 16px 0 0 14px;
+}
+#littlebox #left p{
+	display: inline-block;
+	width: 256px;
+	float: right;
+	margin-right: 18px;
+	font-size: 20px;
+	font-family: "microsoft yahei";
+	
+}
+#littlebox #left p span{
+	display: block;
+	font-size: 16px;
+	font-family: "songti"；
+		Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	line-height: 30px;
+	margin-top: 7px;
+}
+#right{
+	float: right;
+	width: 27px;
+	height: 54px;
+	color: #fff;
+	background-color: #2a2c2f;
+	text-align: center;
+	line-height: 54px;
+	font-weight: bold;
+	cursor: pointer;
+}
+#anli{
+	width: 100%;
+	height: 626px;
+	margin: 53px auto 0;
+	background: #f5f5f5;
+	padding-top: 31px;
+}
+#photo{
+	width: 1149px;
+	height: 486px;
+	margin: 35px auto 0;
+	
+}
+#photo li{
+	width: 287px;
+	height: 242px;
+	list-style: none;
+	overflow: hidden;
+	float: left;
+}
+#callme{
+	width: 100%;
+	height: 424px;
+	padding-top: 36px;
+	
+}
+#callmebox{
+	width: 1020px;
+	height: 314px;
+	margin: 22px auto 0;
+	background-color: #f5f5f5;
+}
+#callmebox div{
+	width: 33%;
+	height: 314;
+	float: left;
+}
+#callmebox div img{
+	display: block;
+	margin: 54px auto 0;
+	
+	
+}
+#callmebox div p{
+	font-size: 20px;
+	color: #333333;
+	text-align: center;
+	margin: 20px 0 12px;
+	
+}
+#dibu{
+	width:100%;
+	overflow:hidden;
+	background:#2a2c2f; 
+	margin-top:35px 
+}
+#dibu_nr{
+	width:1160px; 
+	height:175px; 
+	margin: 0 auto;
+	text-align: center;
+}
+#dibu_nr_z{
+	height:1160px; 
+	line-height:175px; 
+	float:left; 
+	margin-left:60px;
+	color:#fff; 
+	font-size:45px
+}
+#dibu_nr_y{
+	height:175px;  
+	line-height:175px; 
+	float: right;color:#fff; 
+	margin-right:290px; 
+	font-size:18px}
